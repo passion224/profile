@@ -1,0 +1,53 @@
+<!DOCTYPE html> <!-- 이 속의 내용은 주석(개발자를 위한 보충설명)입니다. 1주일만 지나도 내가 짠 코드를 잘 기억 못하죠… -->
+<html>
+    <head>
+<title>타이틀바에 나타나는 타이틀</title> <!-- 브라우저의 탭이나 제목표시줄에 나타나는 타이틀입니다. -->
+<meta charset="utf-8">
+</head>
+    <body>
+<ul>
+  <li><a href="index.html">내 소개</a></li>
+  <li><a href="album.html">앨범</a></li>
+  <li><a href="Best Photos of 2016.html">Best Photos of 2016</a></li>
+</ul>
+
+<h1> 컴활못 소연이의 자기소개</h1>
+<!-- h1 부터 h6 단계까지 미리 정의되어 있습니다 -->
+        <h2>이대에서 막학기를 보내며 학업과 취준을 병행하고 있는 그녀는..</h2>
+
+<ol>
+    <li>웃는게 참 예뻐요.</li>
+      <img src="웃다.jpg" style="width:304px;height:228px;">
+        <img src="웃다2.jpg" style="width:304px;height:228px;">
+    <p><a href="https://youtu.be/Dw12swK7mx8"> 참 예뻐요-홍광호</a></p>
+    <li>별명은 참새.</li>
+      <img src="참새.png" style="width:304px;height:228px;">
+        <img src="참새2.jpg" style="width:304px;height:228px;">
+  <li>자연을 좋아하고(특별히 꽃을 좋아함),</li>
+<img src="2016-10-25-15-43-15.jpg" style="width:304px;height:228px;">
+<img src="20160501_123250.jpg" style="width:304px;height:228px;">
+  <li>음악을 좋아하고,</li>
+  <img src="기타 소연.jpg" style="width:304px;height:228px;">
+  <p><a href="https://youtu.be/Ys1PPDUKYoY?list=PLLKpbJYAnSz5zaA2SkjwuLmfxrofYqwa-"> 2chellos</a></p>
+  <li>나얼을 좋아하고,</li>
+    <img src="나얼 소연.jpg" style="width:304px;height:228px;">
+  <li>감성적이며,</li>
+    <img src="감성 소연.jpg" style="width:304px;height:228px;">
+  <li>호기심이 충만해요.</li>
+    <img src="호기심 소연.jpg" style="width:304px;height:228px;">
+      <img src="호기심 소연 (2).jpg" style="width:304px;height:228px;">
+  <li>보기드물게 우애좋은 남매 중 막내동생이고,</li>
+    <img src="오빠 소연.jpg" style="width:304px;height:228px;">
+    <img src="오빠 소연2.jpg" style="width:304px;height:228px;">
+      <li>가족들을 더 사랑하고 싶고,</li>
+      <img src="가족.jpg" style="width:304px;height:228px;">
+      <img src="가족2.jpg" style="width:304px;height:228px;">
+      <li>제일 좋아하는 음식은 샐러드, 몸에 좋은것만 먹고</li>
+      <img src="샐러드.jpg" style="width:304px;height:228px;">
+      <img src="음식.jpg" style="width:304px;height:228px;">
+</ol>
+
+        <a href="http://naver.com">네이버로 바로 이동</a>
+        <img src="cat.png">
+    </body>
+</html>
